@@ -40,6 +40,9 @@ The project is divided into three modules:
 ### Live Analysis Report
 ![Analysis](assets/analysis_report_sample.jpeg)
 
+### Youtube Video Link (Click below)
+[![Intelligent Pesticide Sprinkling System](https://img.youtube.com/vi/d8U_vCuvZes/0.jpg)](https://www.youtube.com/watch?v=d8U_vCuvZes)
+
 ## 👥 Credits
 This project was a collaborative effort by **Team Eternal Minds**.  
 *Original repository by [NimeVR](https://github.com/NimeVR).*
