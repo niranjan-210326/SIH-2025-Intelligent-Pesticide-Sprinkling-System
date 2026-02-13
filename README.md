@@ -1,6 +1,6 @@
 # Intelligent Pesticide Sprinkling System (SIH 2025)
 
-![Prototype](assets/prototype_view.jpg)
+![Prototype](assets/prototype_photo.jpeg)
 
 **Team:** Eternal Minds | **Problem Statement ID:** 25015  
 **Theme:** Agriculture, Food Tech & Rural Development | **Category:** Hardware
