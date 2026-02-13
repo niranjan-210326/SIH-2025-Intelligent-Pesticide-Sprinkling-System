@@ -21,7 +21,7 @@ The project is divided into three modules:
 2. **Analysis Module (Python/TensorFlow):** Processes images using the trained model.
 3. **Control Module (Arduino Uno):** Manages sensors and triggers the pesticide pump.
 
-![Architecture](assets/system_architecture.png)
+![Architecture](assets/system_architecture.jpeg)
 
 ## 📂 Repository Structure
 - `/firmware`: C++ code for Arduino Uno and ESP32-CAM.
@@ -35,10 +35,10 @@ The project is divided into three modules:
 
 ## 📸 Demo & Screenshots
 ### Circuit Diagram
-![Circuit](assets/circuit_diagram.jpg)
+![Circuit](assets/circuit_diagram.jpeg)
 
 ### Live Analysis Report
-![Analysis](assets/analysis_report.png)
+![Analysis](assets/analysis_report_sample.jpeg)
 
 ## 👥 Credits
 This project was a collaborative effort by **Team Eternal Minds**.  
